@@ -16,12 +16,12 @@ Feel free to explore my repositories to see some of my work!
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=dark)
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Website: [Your Personal Website](https://funmi-folio.vercel.app)
-- Twitter: [Your Twitter Handle](https://twitter.com/Funmi565)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Website: [Funmi's Portfolio](https://funmi-folio.vercel.app)
+- Twitter: [See Me on Twitter](https://twitter.com/Funmi565)
 
 Thanks for visiting my profile! Feel free to reach out and connect.
