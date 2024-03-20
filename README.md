@@ -18,7 +18,7 @@ Feel free to explore my repositories to see some of my work!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)
 
 
 ## Let's Connect
