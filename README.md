@@ -16,7 +16,7 @@ Feel free to explore my repositories to see some of my work!
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=dark)
 
 ## Let's Connect
 
