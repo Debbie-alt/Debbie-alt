@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 Welcome to my GitHub profile! I'm Funmilayo, a Frontend Developer with a love for coding and building awesome projects.
 
