@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Funmilayo, a Frontend Developer with a love fo
 
 ## About Me
 
-- 🚀 I'm currently freelancing and looking for a fulltime Frontend Role.
+- 🚀 I'm currently freelancing and looking for a fulltime remote Frontend Role.
 - 💻 I enjoy working with technologies like JavaScript, React, React Native, and Python.
 - 🌱 I'm constantly learning and exploring new technologies to expand my skills.
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
