@@ -44,7 +44,7 @@ Feel free to explore my repositories to see some of my work!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)<br>
 <img  src="https://streak-stats.demolab.com/?user=Debbie-alt&count_private=true&theme=dark&border_radius=10" width="48%" >
 
 
@@ -52,10 +52,10 @@ Feel free to explore my repositories to see some of my work!
  <div align="center" style="display:flex;">
 
  <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank>
- <img  src="images/linkedin2.png" width="50">
+ <img  src="images/linkedin2.png" width="50">&nbsp; 
  <a href="mailto:funmmy565@gmail.com" target=_blank>
  <img  src="images/3dgmail.jfif" width="50">
- </a>
+ </a>&nbsp; 
  <a href="mailto:funmmy565@gmail.com" target=_blank>
  <img  src="images/whatsapp-removebg-preview.png" width="50">
   
