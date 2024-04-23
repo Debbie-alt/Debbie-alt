@@ -35,7 +35,7 @@ Feel free to explore my repositories to see some of my work!
 
 <div align="center" style="display: flex;  place-self:center; margin-left:30%;">
 <img src="images/react_glossy-removebg-preview.png" width="50" height="50" style="border-radius:50%;">
-<img src="images/tailwind.png" width="58" height="80">
+<img src="images/tailwind.png" width="58" height="50">
   
 </div>
 
@@ -45,7 +45,7 @@ Feel free to explore my repositories to see some of my work!
 <img src="images/npmr.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/bootstrap_icon.png" width="58" height="80">
 <img src="images/next.jfif" width="58" height="80">
-<img src="images/shadcnui.jfif" width="50" height="50">
+<img src="images/shadcn.jfif" width="50" height="50">
 
 <img src="images/firebaser.png" width="50" height="50">
 
