@@ -19,11 +19,11 @@ Feel free to explore my repositories to see some of my work!
 ## Technologies and Tools I use 
 
 
-
-<img src="images/react-icon.png" width="50" height="50">
+<div style="display: flex; justify-content: space-around;">
 <img src="images/git.png" width="50" height="50">
 <img src="images/sql.png" width="50" height="50">
 <img src="images/css_icon.png" width="50" height="50">
+</div>
 
 ## GitHub Stats
 
