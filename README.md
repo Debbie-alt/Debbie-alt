@@ -20,6 +20,7 @@ Feel free to explore my repositories to see some of my work!
 
 
 <div align="center" style="display: flex; justify-content: space-around; ">
+<img src="images/html.jfif" width="50" height="50">
 <img src="images/git.png" width="50" height="50">
 <img src="images/sql.png" width="80" height="50">
 <img src="images/css_icon.png" width="50" height="50">
