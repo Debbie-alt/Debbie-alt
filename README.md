@@ -26,7 +26,7 @@ Feel free to explore my repositories to see some of my work!
 <img src="images/css_icon.png" width="50" height="50">
 <img src="images/figma.svg" width="50" height="50">
 <img src="images/vimr.png" width="50" height="50">
-<img src="images/js_rounded.png" width="50" height="50">
+<img src="images/js_rounded.png" width="50" height="40">
 <img src="images/framer_motion.png" width="50" height="50">
 
 
@@ -35,7 +35,7 @@ Feel free to explore my repositories to see some of my work!
 <img src="images/htmx.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/linuxr.png" width="80" height="50" style="border-radius:50%;">
 <img src="images/npmr.png" width="50" height="50" style="border-radius:50%;">
-<img src="images/react_glossy.jfif" width="50" height="50" style="border-radius:50%;">
+<img src="images/react_glossy-removebg-preview.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/bootstrap_icon.png" width="58" height="80">
 <img src="images/next.jfif" width="58" height="80">
 
