@@ -16,11 +16,7 @@ Welcome to my GitHub profile! I'm Funmilayo, a Frontend Developer with a love fo
 
 Feel free to explore my repositories to see some of my work!
 
-![Technologies and Tools I use]
-(images/react-icon.png)
-(images/git.png)
-(images/sql.png)
-(images.css_icon.png)
+![Technologies and Tools I use](images/react-icon.png)(images/git.png)(images/sql.png)(images.css_icon.png)
 
 ## GitHub Stats
 
