@@ -19,14 +19,14 @@ Feel free to explore my repositories to see some of my work!
 ## Technologies and Tools I use 
 
 
-<div style="display: flex; justify-content: space-around; place-self:center; margin-left:auto; ">
+<div style="display: flex; justify-content: space-around; place-self:center; margin-left:30%; ">
 <img src="images/git.png" width="50" height="50">
 <img src="images/sql.png" width="80" height="50">
 <img src="images/css_icon.png" width="50" height="50">
 <img src="images/figma.svg" width="50" height="50">
 <img src="images/vim.png" width="50" height="50">
 </div>
-   <div style="display: flex; justify-content: space-around; place-self:center; margin-left:auto;">
+   <div style="display: flex; justify-content: space-around; place-self:center; margin-left:30%;">
 <img src="images/htmx.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/linu.jfif" width="80" height="50" style="border-radius:50%;">
 <img src="images/npm.png" width="50" height="50" style="border-radius:50%;">
