@@ -57,9 +57,10 @@ Feel free to explore my repositories to see some of my work!
  <img  src="images/3dgmail.jfif" width="50">
  </a>&nbsp; 
  <a href="mailto:funmmy565@gmail.com" target=_blank>
- <img  src="images/whatsapp-removebg-preview.png" width="50">
+ <img  src="images/wats3-removebg-preview.png" width="50">
   
  </a>
+ </div>
 
 
 <!-- - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yourprofile)
