@@ -16,7 +16,15 @@ Welcome to my GitHub profile! I'm Funmilayo, a Frontend Developer with a love fo
 
 Feel free to explore my repositories to see some of my work!
 
-![Technologies and Tools I use](images/react-icon.png) ![Git](images/git.png) ![SQL](images/sql.png) ![CSS](images/css_icon.png)
+## Technologies and Tools I use 
+
+
+
+<img src="images/react-icon.png" width="50" height="50">
+<img src="images/git.png" width="50" height="50">
+<img src="images/sql.png" width="50" height="50">
+<img src="images/css_icon.png" width="50" height="50">
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)
