@@ -46,7 +46,6 @@ Feel free to explore my repositories to see some of my work!
 <img src="images/bootstrap_icon.png" width="58" height="80">
 <img src="images/nextjs-removebg-preview.png" width="58" height="80">
 <img src="images/shadcn.jfif" width="50" height="50">
-
 <img src="images/firebaser.png" width="50" height="50">
 
 </div>
