@@ -19,18 +19,18 @@ Feel free to explore my repositories to see some of my work!
 ## Technologies and Tools I use 
 
 
-<div style="display: flex; justify-content: space-around; place-self:center">
+<div style="display: flex; justify-content: space-around; place-self:center; margin-left:auto; ">
 <img src="images/git.png" width="50" height="50">
 <img src="images/sql.png" width="80" height="50">
 <img src="images/css_icon.png" width="50" height="50">
 <img src="images/figma.svg" width="50" height="50">
 <img src="images/vim.png" width="50" height="50">
 </div>
-   <div style="display: flex; justify-content: space-around; place-self:center">
-<img src="images/htmx.png" width="50" height="50">
-<img src="images/linu.jfif" width="80" height="50">
-<img src="images/npm.png" width="50" height="50">
-<img src="images/react_glossy.jfif" width="50" height="50">
+   <div style="display: flex; justify-content: space-around; place-self:center; margin-left:auto;">
+<img src="images/htmx.png" width="50" height="50" style="border-radius:50%;">
+<img src="images/linu.jfif" width="80" height="50" style="border-radius:50%;">
+<img src="images/npm.png" width="50" height="50" style="border-radius:50%;">
+<img src="images/react_glossy.jfif" width="50" height="50" style="border-radius:50%;">
 <img src="images/bootstrap_icon.png" width="50" height="50">
 </div>
 
@@ -46,7 +46,7 @@ Feel free to explore my repositories to see some of my work!
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)
-<img  src="https://streak-stats.demolab.com/?user=omolara5861&count_private=true&theme=dark&border_radius=10" width="48%" >
+<img  src="https://streak-stats.demolab.com/?user=Debbie-alt&count_private=true&theme=dark&border_radius=10" width="48%" >
 
 
 ## Let's Connect
