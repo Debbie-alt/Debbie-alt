@@ -55,7 +55,7 @@ Feel free to explore my repositories to see some of my work!
  <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank>
  <img  src="images/linkedin2.png" width="50">&nbsp; 
  <a href="mailto:funmmy565@gmail.com" target=_blank>
- <img  src="images/3dgmail.jfif" width="50">
+ <img  src="images/gmailorig.png" width="50">
  </a>&nbsp; 
  <a href="mailto:funmmy565@gmail.com" target=_blank>
  <img  src="images/wats3-removebg-preview.png" width="70">
