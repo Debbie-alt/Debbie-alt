@@ -55,4 +55,6 @@ Feel free to explore my repositories to see some of my work!
 - Website: [Funmi's Portfolio](https://funmi-folio.vercel.app)
 - Twitter: [See Me on Twitter](https://twitter.com/Funmi565)
 
+![visitors](https://komarev.com/ghpvc/?username=Debbie-alt&color=green)
+
 Thanks for visiting my profile! Feel free to reach out and connect.
