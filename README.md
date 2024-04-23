@@ -36,7 +36,7 @@ Feel free to explore my repositories to see some of my work!
 <img src="images/linu.jfif" width="80" height="50" style="border-radius:50%;">
 <img src="images/npm.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/react_glossy.jfif" width="50" height="50" style="border-radius:50%;">
-<img src="images/bootstrap_icon.png" width="50" height="50">
+<img src="images/bootstrap_icon.png" width="58" height="80">
 <img src="images/firebase.jfif" width="50" height="50">
 
 </div>
