@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Funmilayo, a Frontend Developer with a love fo
 ## About Me
 
 - 🚀 I'm currently freelancing and looking for a fulltime remote Frontend Role.
-- 💻 I enjoy working with technologies like JavaScript, React, React Native, and Python.
+- 💻 I enjoy working with technologies like JavaScript, React, React Native, and Next.js.
 - 🌱 I'm constantly learning and exploring new technologies to expand my skills.
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
 - 📫 You can reach me via [Email](mailto:fayemi.funmilayo55@gmail.con) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
