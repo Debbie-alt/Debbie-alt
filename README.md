@@ -78,8 +78,10 @@ Feel free to explore my repositories to see some of my work!
 - Twitter: [See Me on Twitter](https://twitter.com/Funmi565) -->
 
 
- <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank>
- <img  src="images/buymeacoffee_logo_icon_169441-removebg-preview.png" width="50">&nbsp; />
+ <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank
+ style="margin-top:30px;
+   >
+ <img src="images/buymeacoffee_logo_icon_169441-removebg-preview.png" width="100">
 
 ![visitors](https://komarev.com/ghpvc/?username=Debbie-alt&color=green)
 
