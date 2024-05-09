@@ -77,8 +77,8 @@ Feel free to explore my repositories to see some of my work!
 - Website: [Funmi's Portfolio](https://funmi-folio.vercel.app)
 - Twitter: [See Me on Twitter](https://twitter.com/Funmi565) -->
 
-
- <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank
+   ## FEELING GENEROUS?
+ <a href="https://www.buymeacoffee.com/funmilayo" target=_blank
  style="margin-top:30px;
    >
  <img src="images/buymeacoffee_logo_icon_169441-removebg-preview.png" width="100">
