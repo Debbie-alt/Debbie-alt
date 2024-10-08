@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am Funmilayo, a Frontend Developer with a love f
 ## About Me
 
 - 💻 I enjoy working with technologies like JavaScript, React, React Native, and Next.js.
-- 🌱 I'm constantly learning and exploring new technologies to expand my skills.
+- 🌱 I'm currently learning blockchain development
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
 - 📫 You can reach me via [Email](funmmy565@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 - ⚡ Fun fact: Vim is my favorite text editor 😂
