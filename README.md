@@ -38,7 +38,6 @@ Feel free to explore my repositories to see some of my work!
 </div>
 
    <div align="center" style="display: flex;  place-self:center; margin-left:30%;">
-<img src="images/htmx.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/linuxr.png" width="80" height="50" style="border-radius:50%;">
 <img src="images/npmr.png" width="50" height="50" style="border-radius:50%;">
 <img src="images/botstrap.png" width="58" height="50">
