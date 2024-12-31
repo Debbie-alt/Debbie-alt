@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I am Funmilayo, a Frontend Developer with a love f
 - 🌱 I'm currently learning blockchain development
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
 - 📫 You can reach me via [Email](funmmy565@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-- ⚡ Fun fact: Vim is my favorite text editor 😂
 
 
 
