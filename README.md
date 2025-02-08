@@ -1,5 +1,5 @@
 # Hi there!  👋
-Welcome to my GitHub profile! I am Funmilayo, a Frontend Developer with a love for coding and building  wonderful projects.
+Welcome to my GitHub profile! I am Funmilayo, a Frontend Developer with a love for coding and building wonderful projects.
 
 ## About Me
 
