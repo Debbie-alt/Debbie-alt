@@ -59,12 +59,10 @@ Feel free to explore my repositories to see some of my work!
 
  <a href="https://www.linkedin.com/in/funmilayo-fayemi-7112ab272" target=_blank>
  <img  src="images/linkedin2.png" width="50">&nbsp; 
- <a href="mailto:funmmy565@gmail.com" target=_blank>
+ <a href="mailto:fayemi@funmilayo.pro" target=_blank>
  <img  src="images/gmailorig.png" width="70">
  </a>&nbsp; 
- <!-- <a href="https://wa.link/6nbbpz" target=_blank> -->
- <img  src="images/wats3-removebg-preview.png" width="65">
-  
+ 
  </a>
  </div>
 
