@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am Funmilayo, a Software Developer with love for
 ## About Me
 
 - 💻 I enjoy working with technologies like JavaScript, TypeScript, React, Next.js, Python and Rust.
-- 🌱 I'm currently learning Machine Learning
+- 🌱 I'm currently learning AI/ML
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
 - 📫 You can reach me via [Email](fayemi@funmilayo.pro) or connect with me on [LinkedIn](https://www.linkedin.com/in/funmilayo-fayemi).
 
