@@ -1,5 +1,5 @@
 # Hi there!  👋
-Welcome to my GitHub profile! I am Funmilayo, a Software Developer with love for coding and building wonderful projects.
+ I am Funmilayo, a Software Developer working on fullstack web and mobile applications.
 
 ## About Me
 
