@@ -48,11 +48,6 @@ Feel free to explore my repositories to see some of my work!
 
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debbie-alt&show_icons=true&theme=github)<br>
-<img  src="https://streak-stats.demolab.com/?user=Debbie-alt&count_private=true&theme=dark&border_radius=10" width="48%" >
-
 
    ## Let's Connect
  <div align="center" style="display:flex;">
