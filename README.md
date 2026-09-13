@@ -9,15 +9,6 @@
 - 📫 You can reach me via [Email](fayemi@funmilayo.pro) or connect with me on [LinkedIn](https://www.linkedin.com/in/funmilayo-fayemi).
 
 
-
- 
-
-<div align="center" style="display: flex;  place-self:center; margin-left:30%;">
-<img src="images/react_glossy-removebg-preview.png" width="50" height="50" style="border-radius:50%;">
-<img src="images/tailwind.png" width="58" height="50">
-  
-</div>
-
    <div align="center" style="display: flex;  place-self:center; margin-left:30%;">
 <img src="images/linuxr.png" width="80" height="50" style="border-radius:50%;">
 <img src="images/npmr.png" width="50" height="50" style="border-radius:50%;">
