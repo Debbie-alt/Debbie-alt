@@ -10,25 +10,7 @@
 
 
 
-
-Feel free to explore my repositories to see some of my work!
-
-## Technologies and Tools I use 
-
-
-<div align="center" style="display: flex; justify-content: space-around; ">
-<img src="images/htmlr.png" width="50" height="50">
-<img src="images/git.png" width="50" height="50">
-<img src="images/mysql.png" width="80" height="50">
-<img src="images/css_icon.png" width="50" height="50">
-<img src="images/figma.svg" width="50" height="50">
-<img src="images/vimr.png" width="50" height="50">
-<img src="images/js_rounded.png" width="50" height="40">
-<img src="images/framer_motion.png" width="50" height="50">
-
-
-</div>
-
+ 
 
 <div align="center" style="display: flex;  place-self:center; margin-left:30%;">
 <img src="images/react_glossy-removebg-preview.png" width="50" height="50" style="border-radius:50%;">
