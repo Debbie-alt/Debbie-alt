@@ -23,14 +23,6 @@
 
 <!-- - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/yourprofile)
 - Website: [Funmi's Portfolio](https://funmi-folio.vercel.app)
-- Twitter: [See Me on Twitter](https://twitter.com/Funmi565) -->
 
-## FEELING GENEROUS?
-   
-<a href="https://www.buymeacoffee.com/funmilayo" target=_blank>
- <img src="images/buymeacoffee_logo_icon_169441-removebg-preview.png" width="180"/>
-</a>
-
-![visitors](https://komarev.com/ghpvc/?username=Debbie-alt&color=green)
 
 Thanks for visiting my profile! Feel free to reach out and connect.
