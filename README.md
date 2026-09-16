@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 💻 I enjoy working with technologies like JavaScript, TypeScript, React, Next.js, Python and Rust.
+- 💻 I enjoy working with technologies like JavaScript, TypeScript, React, Next.js, React Native and Python.
 - 🌱 I'm currently learning AI/ML
 - 💬 Ask me about anything related to web development, software engineering, or technology in general. I'm always happy to help!
 - 📫 You can reach me via [Email](fayemi@funmilayo.pro) or connect with me on [LinkedIn](https://www.linkedin.com/in/funmilayo-fayemi).
